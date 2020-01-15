@@ -1,0 +1,5 @@
+name: Vector Calculus - Environment
+
+dependencies:
+  -numpy
+  -matplotlib
