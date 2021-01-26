@@ -1,5 +1,0 @@
-name: ac-environment
-
-dependencies:
-  - numpy
-  - matplotlib
